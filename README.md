@@ -2,4 +2,4 @@ ivocablearner
 =============
 
 
-Beantragung: Entfernung von "i" aus Projektname
+(✓) Beantragung: Entfernung von "i" aus Projektname
