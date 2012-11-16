@@ -37,14 +37,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		43D968DF16553DA3005E6781 /* vocablearner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vocablearner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43D968DF16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vocablearner.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D968E316553DA3005E6781 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		43D968E516553DA3005E6781 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		43D968E716553DA3005E6781 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		43D968EB16553DA3005E6781 /* vocablearner-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "vocablearner-Info.plist"; sourceTree = "<group>"; };
+		43D968EB16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Vocablearner.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
 		43D968ED16553DA3005E6781 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		43D968EF16553DA3005E6781 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		43D968F116553DA3005E6781 /* vocablearner-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "vocablearner-Prefix.pch"; sourceTree = "<group>"; };
+		43D968F116553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Vocablearner.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
 		43D968F216553DA3005E6781 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		43D968F316553DA3005E6781 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		43D968F516553DA3005E6781 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -54,9 +54,9 @@
 		43D968FF16553DA3005E6781 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		43D9690116553DA3005E6781 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		43D9690216553DA3005E6781 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		43D9690916553DA3005E6781 /* vocablearnerTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vocablearnerTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		43D9690916553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Vocablearner.temp_caseinsensitive_renameTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D9690A16553DA3005E6781 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		43D9691216553DA3005E6781 /* vocablearnerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "vocablearnerTests-Info.plist"; sourceTree = "<group>"; };
+		43D9691216553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Vocablearner.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = "<group>"; };
 		43D9691416553DA3005E6781 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		43D9691616553DA3005E6781 /* vocablearnerTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vocablearnerTests.h; sourceTree = "<group>"; };
 		43D9691716553DA3005E6781 /* vocablearnerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vocablearnerTests.m; sourceTree = "<group>"; };
@@ -99,8 +99,8 @@
 		43D968E016553DA3005E6781 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				43D968DF16553DA3005E6781 /* vocablearner.app */,
-				43D9690916553DA3005E6781 /* vocablearnerTests.octest */,
+				43D968DF16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename.app */,
+				43D9690916553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -133,10 +133,10 @@
 		43D968EA16553DA3005E6781 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				43D968EB16553DA3005E6781 /* vocablearner-Info.plist */,
+				43D968EB16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename-Info.plist */,
 				43D968EC16553DA3005E6781 /* InfoPlist.strings */,
 				43D968EF16553DA3005E6781 /* main.m */,
-				43D968F116553DA3005E6781 /* vocablearner-Prefix.pch */,
+				43D968F116553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename-Prefix.pch */,
 				43D968F516553DA3005E6781 /* Default.png */,
 				43D968F716553DA3005E6781 /* Default@2x.png */,
 				43D968F916553DA3005E6781 /* Default-568h@2x.png */,
@@ -157,7 +157,7 @@
 		43D9691116553DA3005E6781 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				43D9691216553DA3005E6781 /* vocablearnerTests-Info.plist */,
+				43D9691216553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests-Info.plist */,
 				43D9691316553DA3005E6781 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -166,9 +166,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		43D968DE16553DA3005E6781 /* vocablearner */ = {
+		43D968DE16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43D9691B16553DA3005E6781 /* Build configuration list for PBXNativeTarget "vocablearner" */;
+			buildConfigurationList = 43D9691B16553DA3005E6781 /* Build configuration list for PBXNativeTarget "Vocablearner.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				43D968DB16553DA3005E6781 /* Sources */,
 				43D968DC16553DA3005E6781 /* Frameworks */,
@@ -178,14 +178,14 @@
 			);
 			dependencies = (
 			);
-			name = vocablearner;
+			name = Vocablearner.temp_caseinsensitive_rename;
 			productName = vocablearner;
-			productReference = 43D968DF16553DA3005E6781 /* vocablearner.app */;
+			productReference = 43D968DF16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		43D9690816553DA3005E6781 /* vocablearnerTests */ = {
+		43D9690816553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43D9691E16553DA3005E6781 /* Build configuration list for PBXNativeTarget "vocablearnerTests" */;
+			buildConfigurationList = 43D9691E16553DA3005E6781 /* Build configuration list for PBXNativeTarget "Vocablearner.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				43D9690416553DA3005E6781 /* Sources */,
 				43D9690516553DA3005E6781 /* Frameworks */,
@@ -197,9 +197,9 @@
 			dependencies = (
 				43D9690F16553DA3005E6781 /* PBXTargetDependency */,
 			);
-			name = vocablearnerTests;
+			name = Vocablearner.temp_caseinsensitive_renameTests;
 			productName = vocablearnerTests;
-			productReference = 43D9690916553DA3005E6781 /* vocablearnerTests.octest */;
+			productReference = 43D9690916553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -211,7 +211,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Null GmbH";
 			};
-			buildConfigurationList = 43D968D916553DA3005E6781 /* Build configuration list for PBXProject "vocablearner" */;
+			buildConfigurationList = 43D968D916553DA3005E6781 /* Build configuration list for PBXProject "Vocablearner" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -223,8 +223,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				43D968DE16553DA3005E6781 /* vocablearner */,
-				43D9690816553DA3005E6781 /* vocablearnerTests */,
+				43D968DE16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename */,
+				43D9690816553DA3005E6781 /* Vocablearner.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -293,7 +293,7 @@
 /* Begin PBXTargetDependency section */
 		43D9690F16553DA3005E6781 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 43D968DE16553DA3005E6781 /* vocablearner */;
+			target = 43D968DE16553DA3005E6781 /* Vocablearner.temp_caseinsensitive_rename */;
 			targetProxy = 43D9690E16553DA3005E6781 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -390,9 +390,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "vocablearner/vocablearner-Prefix.pch";
-				INFOPLIST_FILE = "vocablearner/vocablearner-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "vocablearner/Vocablearner.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "vocablearner/Vocablearner.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = Vocablearner.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -401,9 +401,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "vocablearner/vocablearner-Prefix.pch";
-				INFOPLIST_FILE = "vocablearner/vocablearner-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "vocablearner/Vocablearner.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "vocablearner/Vocablearner.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = Vocablearner.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -418,8 +418,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vocablearner/vocablearner-Prefix.pch";
-				INFOPLIST_FILE = "vocablearnerTests/vocablearnerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "vocablearnerTests/Vocablearner.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = Vocablearner.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -435,8 +435,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vocablearner/vocablearner-Prefix.pch";
-				INFOPLIST_FILE = "vocablearnerTests/vocablearnerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "vocablearnerTests/Vocablearner.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = Vocablearner.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -445,7 +445,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		43D968D916553DA3005E6781 /* Build configuration list for PBXProject "vocablearner" */ = {
+		43D968D916553DA3005E6781 /* Build configuration list for PBXProject "Vocablearner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43D9691916553DA3005E6781 /* Debug */,
@@ -454,21 +454,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		43D9691B16553DA3005E6781 /* Build configuration list for PBXNativeTarget "vocablearner" */ = {
+		43D9691B16553DA3005E6781 /* Build configuration list for PBXNativeTarget "Vocablearner.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43D9691C16553DA3005E6781 /* Debug */,
 				43D9691D16553DA3005E6781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		43D9691E16553DA3005E6781 /* Build configuration list for PBXNativeTarget "vocablearnerTests" */ = {
+		43D9691E16553DA3005E6781 /* Build configuration list for PBXNativeTarget "Vocablearner.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				43D9691F16553DA3005E6781 /* Debug */,
 				43D9692016553DA3005E6781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
